@@ -1,5 +1,5 @@
 
-*A collection of resources on eating disorder recovery as part of EDAW*
+*A collection of resources on eating disorder recovery* built in Dash Plotly
 
 Eating Disorders Awareness Week (EDAW) is an annual campaign to educate the public about the realities of eating disorders and to provide hope, support, 
 and visibility to individuals and families affected by eating disorders. Eating Disorders Awareness Week 2023 is taking place Monday, February 27 - Sunday, March 5 .
